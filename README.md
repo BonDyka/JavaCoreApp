@@ -1,5 +1,5 @@
 ### The Java Core Project
-**The project is result viewed video from [YouTube][video]
+** The project is result viewed video from [YouTube][video]
 
 
 
